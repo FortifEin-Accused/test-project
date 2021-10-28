@@ -1,0 +1,17 @@
+{
+  "id": "titanium_247,56,372",
+  "name": "titanium",
+  "icon": "waypoint-normal.png",
+  "x": 247,
+  "y": 56,
+  "z": 372,
+  "r": 147,
+  "g": 109,
+  "b": 247,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

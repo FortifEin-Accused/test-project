@@ -1,0 +1,310 @@
+[11:34:30] [Client thread/INFO]: Disabling Main Menu Mob render ticker
+[11:34:48] [Client thread/INFO]: Enabling Main Menu Mob render ticker
+[11:34:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:34:49] [Server thread/INFO]: Generating keypair
+[11:34:49] [Server thread/INFO]: Converting map!
+[11:34:49] [Server thread/INFO]: Scanning folders...
+[11:34:49] [Server thread/INFO]: Total conversion count is 0
+[11:34:49] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[11:34:49] [Server thread/INFO]: Applying holder lookups
+[11:34:49] [Server thread/INFO]: Holder lookups applied
+[11:34:49] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:49] [Server thread/INFO]: Loading dimension 0 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:49] [Server thread/WARN]: Unable to find spawn biome
+[11:34:53] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:53] [Server thread/INFO]: Loading dimension 36 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:53] [Server thread/INFO]: [TwilightForest] Loaded a world with the tfEnforcedProgression game rule not defined.  Defining it.
+[11:34:53] [Server thread/WARN]: Unable to find spawn biome
+[11:34:56] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:56] [Server thread/INFO]: Loading dimension 35 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:56] [Server thread/WARN]: Unable to find spawn biome
+[11:34:56] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:56] [Server thread/INFO]: Loading dimension 34 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:56] [Server thread/WARN]: Unable to find spawn biome
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension 33 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension 32 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension 31 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension 30 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension -1 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:34:59] [Server thread/INFO]: Loading dimension 66 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:34:59] [Server thread/WARN]: Unable to find spawn biome
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 17 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension -100 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 55 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 7 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 54 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 53 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 51 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:03] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:03] [Server thread/INFO]: Loading dimension 50 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:04] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:04] [Server thread/INFO]: Loading dimension -112 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:04] [Server thread/INFO]: [OptiFine] WorldServer.nextTickSet updated
+[11:35:04] [Server thread/INFO]: Loading dimension 1 (asscheeks) (net.minecraft.server.integrated.IntegratedServer@39c642a7)
+[11:35:04] [Server thread/INFO]: Preparing start region for level 0
+[11:35:05] [Server thread/INFO]: Preparing spawn area: 20%
+[11:35:06] [Server thread/INFO]: Preparing spawn area: 38%
+[11:35:07] [Server thread/INFO]: Preparing spawn area: 55%
+[11:35:08] [Server thread/INFO]: Preparing spawn area: 75%
+[11:35:09] [Server thread/INFO]: Preparing spawn area: 94%
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:lightningIngot(8000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:blueGem(5000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:greenGem(10000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:yellowGem(20000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:orangeGem(40000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:blackIronIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:titaniumIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:palladium(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:tinIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:aluminiumIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: minecraft:glass_pane(10)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:redIronIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:suitRepairsUnitOff(12000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:dynamicLegendsBlock10(12000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:redGem(80000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:magnesiumIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:copperIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:purpleGem(160000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:organ(100)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:silicon(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:antAnten(50)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:prismarineCrystals(400)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:ruby(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:sapphire(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:gamma(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:prismarineShard(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:tungstenIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:silverIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: minecraft:skull(1000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: Sync:Sync_ItemPlaceholder(12000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: minecraft:stained_glass_pane(10)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: ProjectE:item.pe_transmutation_tablet(2228488)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:redDiamond(8256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: ExtraUtilities:unstableingot(16384)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:dynamicLegendsBlock24(100000)
+[11:35:09] [Server thread/FATAL]: Error in custom EMC file: couldn't find item: academy-craft:ac_Block_solarGen
+[11:35:09] [Server thread/FATAL]: At line number: 148
+[11:35:09] [Server thread/FATAL]: Error in custom EMC file: couldn't find item: academy-craft:ac_Block_nodeBasic
+[11:35:09] [Server thread/FATAL]: At line number: 152
+[11:35:09] [Server thread/FATAL]: Error in custom EMC file: couldn't find item: academy-craft:ac_Item_ingotConst
+[11:35:09] [Server thread/FATAL]: At line number: 156
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:radioactiveSilk(2000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:platinumIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:zincIngot(256)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:kryptonianMetal(10000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:vibranium(1000000)
+[11:35:09] [Server thread/INFO]: Registered custom EMC for: legends:dynamicLegendsBlock27(100)
+[11:35:09] [Server thread/INFO]: Starting server-side EMC mapping.
+[11:35:09] [Server thread/INFO]: Starting to collect Mappings...
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.OreDictionaryMapper
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:redstone(331:0):0/1 to 64/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:glowstone_dust(348:0):0/1 to 384/1
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.LazyMapper
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.APICustomEMCMapper
+[11:35:09] [Server thread/INFO]: Collected Mappings from example.json
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:iron_ingot(265:0):256/1 to 256/1
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=1} -> 2xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=2} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=2} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=4} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=1} -> 2xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=4} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=4} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotIron=16} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {minecraft:obsidian(49:0)=1} -> 2xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, OD: ingotGold=1} -> 2xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, OD: ingotIron=2} -> 3xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, OD: dustRedstone=10} -> 4xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, OD: dustGlowstone=4} -> 4xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, minecraft:ender_pearl(368:0)=4, minecraft:blaze_powder(377:0)=1, minecraft:coal(263:1)=1, OD: dustRedstone=1} -> 4xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, minecraft:coal(263:1)=1, OD: ingotIron=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: ingotGold=1, OD: dustRedstone=1, OD: dustGlowstone=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, minecraft:ender_pearl(368:0)=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1, OD: dustRedstone=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {OD: dustRedstone=1, OD: ingotIron=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {minecraft:ender_pearl(368:0)=1, OD: ingotIron=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {minecraft:coal(263:1)=1, OD: ingotIron=1, minecraft:obsidian(49:0)=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {minecraft:soul_sand(88:0)=1, OD: ingotGold=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1} -> 4xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1} -> 4xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=16} -> 64xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=1} -> 1xnull
+[11:35:09] [Server thread/WARN]: Ignoring setValueFromConversion because of invalid ingredient or output: {null=32, OD: ingotIron=32} -> 48xnull
+[11:35:09] [Server thread/INFO]: Collected Mappings from metals.json
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:cobblestone(4:0):1/1 to 1/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:stick(280:0):4/1 to 4/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:redstone(331:0):64/1 to 64/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:stone(1:0):1/1 to 1/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:glowstone_dust(348:0):384/1 to 384/1
+[11:35:09] [Server thread/WARN]: Overwriting fixValueBeforeInherit for minecraft:diamond(264:0):8192/1 to 8192/1
+[11:35:09] [Server thread/INFO]: Collected Mappings from ODdefaults.json
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.customConversions.CustomConversionMapper
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:orangeGem(4105:0): 40000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:tungstenIngot(4120:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:dynamicLegendsBlock24(454:0): 100000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:dynamicLegendsBlock27(457:0): 100
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:ruby(4123:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:blueGem(4102:0): 5000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:gamma(853:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:redDiamond(4125:0): 8256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:silicon(4122:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:purpleGem(4107:0): 160000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:zincIngot(4118:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:magnesiumIngot(4121:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:lightningIngot(4126:0): 8000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for Sync:Sync_ItemPlaceholder(5768:0): 12000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:copperIngot(4117:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:suitRepairsUnitOff(430:0): 12000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:prismarineShard(4108:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:blackIronIngot(4112:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for ProjectE:item.pe_transmutation_tablet(5762:0): 2228488
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:dynamicLegendsBlock10(440:0): 12000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:redGem(4106:0): 80000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for ExtraUtilities:unstableingot(5621:0): 16384
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:kryptonianMetal(5473:0): 10000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:prismarineCrystals(4109:0): 400
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:radioactiveSilk(5452:0): 2000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:greenGem(4103:0): 10000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:organ(4139:3): 100
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:vibranium(5460:0): 1000000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:silverIngot(4131:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:titaniumIngot(4114:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:tinIngot(4119:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for minecraft:skull(397:1): 1000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:aluminiumIngot(4116:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:antAnten(4195:0): 50
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for minecraft:glass_pane(102:0): 10
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:redIronIngot(4113:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:yellowGem(4104:0): 20000
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:sapphire(4124:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for minecraft:stained_glass_pane(160:0): 10
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:platinumIngot(4115:0): 256
+[11:35:09] [Server thread/INFO]: Adding custom EMC value for legends:palladium(5455:0): 256
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.CustomEMCMapper
+[11:35:09] [Server thread/WARN]: Ignoring Recipe because outnumber <= 0: {minecraft:paper(339:0)=8, minecraft:filled_map(358:*)=1} -> 0xitem.emptyMap@0
+[11:35:09] [Server thread/WARN]: Can not map Crafting Recipes with Type: moze_intel.projecte.gameObjs.customRecipes.RecipeAlchemyBag
+[11:35:09] [Server thread/WARN]: Can not map Crafting Recipes with Type: net.malisis.doors.recipe.BigDoorRecipe
+[11:35:09] [Server thread/WARN]: Can not map Crafting Recipes with Type: com.rwtema.extrautils.crafting.RecipeUnsigil
+[11:35:09] [Server thread/WARN]: Can not map Crafting Recipes with Type: com.rwtema.extrautils.crafting.RecipeSoul
+[11:35:09] [Server thread/INFO]: CraftingMapper Statistics:
+[11:35:09] [Server thread/INFO]: Found 7 Recipes of Type class com.rwtema.extrautils.crafting.RecipeEnchantCrafting
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeUnstableIngotCrafting
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class openblocks.common.recipe.GoldenEyeRechargeRecipe
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeCustomOres
+[11:35:09] [Server thread/INFO]: Found 112 Recipes of Type class net.minecraftforge.oredict.ShapelessOreRecipe
+[11:35:09] [Server thread/INFO]: Found 610 Recipes of Type class net.minecraftforge.oredict.ShapedOreRecipe
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class net.minecraft.item.crafting.RecipesMapExtending
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class openblocks.common.recipe.CrayonGlassesRecipe
+[11:35:09] [Server thread/INFO]: Found 108 Recipes of Type class net.minecraft.item.crafting.ShapelessRecipes
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeGlove
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class openblocks.common.recipe.MapResizeRecipe
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeMagicalWood
+[11:35:09] [Server thread/INFO]: Found 35 Recipes of Type class com.rwtema.extrautils.crafting.RecipeUnstableCrafting
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeGBEnchanting
+[11:35:09] [Server thread/INFO]: Found 2 Recipes of Type class com.rwtema.extrautils.crafting.RecipeDifficultySpecific
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.RecipeUnstableNuggetCrafting
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.ShapelessOreRecipeAlwaysLast
+[11:35:09] [Server thread/INFO]: Found 850 Recipes of Type class net.minecraft.item.crafting.ShapedRecipes
+[11:35:09] [Server thread/INFO]: Found 1 Recipes of Type class com.rwtema.extrautils.crafting.ShapedOreRecipeAlwaysLast
+[11:35:09] [Server thread/INFO]: Found 67 Recipes of Type class moze_intel.projecte.gameObjs.customRecipes.RecipeShapelessHidden
+[11:35:09] [Server thread/INFO]: Found 4 Recipes of Type class com.rwtema.extrautils.crafting.RecipeFilterInvert
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.CraftingMapper
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.FluidMapper
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.SmeltingMapper
+[11:35:09] [Server thread/INFO]: Collected Mappings from moze_intel.projecte.emc.mappers.APICustomConversionMapper
+[11:35:09] [Server thread/INFO]: Mapping Collection finished
+[11:35:09] [Server thread/INFO]: Starting to generate Values:
+[11:35:09] [Server thread/WARN]: EMC Exploit: "0/1 + 3*minecraft:skull(397:1) + 4*minecraft:soul_sand(88:*) + 1*minecraft:bow(261:0) + 1*minecraft:diamond_sword(276:0) => 1*minecraft:nether_star(399:0)" ingredient cost: 19632/1 fixed value of result: 139264/1
+[11:35:09] [Server thread/WARN]: EMC Exploit: "0/1 + 6*minecraft:glass(20:*) => 16*minecraft:glass_pane(102:0)" ingredient cost: 6/1 fixed value of result: 10/1
+[11:35:09] [Server thread/WARN]: EMC Exploit: "0/1 + 9*minecraft:gold_nugget(371:0) => 1*minecraft:gold_ingot(266:0)" ingredient cost: 2043/1 value of result: 2048/1 setValueFromConversion: 0/1 + 8*OD: ingotIron => 1*minecraft:gold_ingot(266:0)
+[11:35:09] [Server thread/WARN]: EMC Exploit: "0/1 + 1*NSSFAKE612: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] + 1*NSSFAKE613: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] + 1*NSSFAKE614: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] + 1*NSSFAKE611: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] + 1*NSSFAKE615: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] + 1*NSSFAKE616: [1xtile.stainedGlass@0, 1xtile.crystalStainedGlass@15] => 16*minecraft:stained_glass_pane(160:0)" ingredient cost: 6/1 fixed value of result: 10/1
+[11:35:09] [Server thread/INFO]: Generated Values...
+[11:35:09] [Server thread/INFO]: Registered 1456 EMC values. (took 86 ms)
+[11:35:09] [Server thread/INFO]: Changing view distance to 9, from 10
+[11:35:09] [Client thread/INFO]: Disabling Main Menu Mob render ticker
+[11:35:09] [Netty Client IO #1/INFO]: Server protocol version 2
+[11:35:09] [Netty IO #5/INFO]: Client protocol version 2
+[11:35:09] [Netty IO #5/INFO]: Client attempting to join with 26 mods : malisiscore@1.7.10-0.14.3,Waila@1.5.10,notenoughIDs@1.4.3.4,Forge@10.13.4.1614,iChunUtil@4.2.3,CodeChickenCore@1.0.7.48,OpenModsCore@0.10.1,legends@8.0,MouseTweaks@2.4.4,bspkrsCore@6.16,waystones@1.0.12,mcp@9.05,Treecapitator@1.7.10,Sync@4.0.1,journeymap@5.1.4p2,FML@7.10.99.99,atum@0.6,llibrary@1.5.1,secretroomsmod@4.7.1,TwilightForest@2.3.8dev,ExtraUtilities@1.2.12,WailaHarvestability@1.1.6,OpenBlocks@1.6,OpenMods@0.10.1,malisisdoors@1.7.10-1.13.2,ProjectE@1.7.10-PE1.10.1
+[11:35:09] [Netty IO #5/INFO]: Attempting connection with missing mods [] at CLIENT
+[11:35:09] [Netty Client IO #1/INFO]: Attempting connection with missing mods [] at SERVER
+[11:35:09] [Server thread/INFO]: [Server thread] Server side modded connection established
+[11:35:09] [Server thread/INFO]: allanep9[local:E:a406168c] logged in with entity id 135109 at (215.5, 70.0, 260.5)
+[11:35:09] [Server thread/INFO]: allanep9 joined the game
+[11:35:09] [Server thread/INFO]: allanep9 has just earned the achievement [A Legend Is Born]
+[11:35:09] [Server thread/INFO]: Sent EMC data packets to: allanep9
+[11:35:09] [Server thread/INFO]: Player EntityPlayerMP['allanep9'/135109, l='asscheeks', x=215.50, y=70.00, z=260.50] connected. Sending ping
+[11:35:09] [Server thread/WARN]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[11:35:09] [Client thread/INFO]: [Client thread] Client side modded connection established
+[11:35:10] [Client thread/INFO]: [CHAT] allanep9 has just earned the achievement [A Legend Is Born]
+[11:35:10] [Client thread/INFO]: Receiving EMC data from server.
+[11:35:10] [Client thread/INFO]: Received all packets!
+[11:35:10] [Client thread/INFO]: Received server authentication msg. Remote sync will be activated
+[11:35:10] [Client thread/INFO]: [CHAT] [TwilightForest] Biome ID conflict detected.  Fix by editing the config file.
+[11:35:10] [Client thread/INFO]: Loaded 0 waypoints from C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\waypoints
+[11:35:10] [Client thread/INFO]: Blocks and textures are current
+[11:35:10] [Client thread/INFO]: Mapping started in C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\DIM0. Memory: 2435MB total, 1005MB free 
+[11:35:11] [Server thread/INFO]: Saving and pausing game...
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Overworld
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Nether
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/The End
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/tatooine
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/korriban
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/tython
+[11:35:11] [Server thread/INFO]: Saving chunks for level 'asscheeks'/hurikane
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/ilum
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/mars
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Outer Space
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Nether
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Atum
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Underdark
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/quantumRealm
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Imortus
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Twilight Forest
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/kingpinTakedown
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/wakanda
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/The Last Millenium
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'asscheeks'/speedforce
+[11:36:22] [Server thread/INFO]: Mapping halted in C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\DIM0
+[11:36:22] [Server thread/INFO]: Unloading dimension 34
+[11:36:22] [Server thread/INFO]: Unloading dimension 51
+[11:36:29] [Client thread/INFO]: Loaded 0 waypoints from C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\waypoints
+[11:36:29] [Client thread/INFO]: Blocks and textures are current
+[11:36:29] [Client thread/INFO]: Mapping started in C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\DIM0. Memory: 2450MB total, 471MB free 
+[11:36:29] [Server thread/INFO]: Mapping halted in C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\DIM0
+[11:36:29] [Server thread/INFO]: Unloading dimension 36
+[11:36:29] [Server thread/INFO]: Unloading dimension 35
+[11:36:29] [Server thread/INFO]: Unloading dimension 33
+[11:36:29] [Server thread/INFO]: Saving and pausing game...
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Overworld
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Nether
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/The End
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/ilum
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/mars
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Outer Space
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Nether
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Atum
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Underdark
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/quantumRealm
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Imortus
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/Twilight Forest
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/kingpinTakedown
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/The Last Millenium
+[11:36:29] [Server thread/INFO]: Saving chunks for level 'asscheeks'/speedforce
+[11:36:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7296ms behind, skipping 145 tick(s)
+[11:36:32] [Client thread/INFO]: Loaded 0 waypoints from C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\waypoints
+[11:36:32] [Client thread/INFO]: Blocks and textures are current
+[11:36:32] [Client thread/INFO]: Mapping started in C:\Users\allanep\curseforge\minecraft\Instances\Legends 2.0\journeymap\data\sp\asscheeks\DIM0. Memory: 2475MB total, 717MB free 
